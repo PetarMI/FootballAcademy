@@ -1,0 +1,5 @@
+D:\Telerik\TelerikExams\FootballAcademy\bin\Release\FootballAcademy.exe
+D:\Telerik\TelerikExams\FootballAcademy\bin\Release\FootballAcademy.pdb
+D:\Telerik\TelerikExams\FootballAcademy\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Telerik\TelerikExams\FootballAcademy\obj\x86\Release\FootballAcademy.exe
+D:\Telerik\TelerikExams\FootballAcademy\obj\x86\Release\FootballAcademy.pdb
